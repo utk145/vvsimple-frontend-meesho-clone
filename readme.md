@@ -34,4 +34,4 @@ The Meesho.com clone frontend is designed to mimic the functionality of the orig
 Special thanks to the creators of [Meesho.com](https://www.meesho.com/) for inspiring this project.
 ## Live Preview
 
-[Click Here to view it](https://d319be3c.utproj-hcj-vvsimple-frontend-meesho-clone.pages.dev/)
+[Click Here to view it](https://utproj-hcj-vvsimple-frontend-meesho-clone.pages.dev/)
