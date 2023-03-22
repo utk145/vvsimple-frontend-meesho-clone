@@ -396,6 +396,13 @@ function renderproductData() {
                 <span>₹</span>
                 <span>${ele.price}</span>
             </p>
+            <span class="tmp">
+                <span class="text">Free Delivery</span>
+            </span>
+            <div class="rating">
+            <div class="rating_rate">${ele.rating} <i class="fa-solid fa-star" style="color:white"></i></div>
+            <span class="review">${ele.review} Reviews</span>
+        </div>
         </div>`
         })
 

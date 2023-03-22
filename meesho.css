@@ -708,6 +708,51 @@ nav ul li:hover .subNavMenu {
     text-transform: capitalize;
 }
 
-.productCard:hover{
+.productCard:hover {
     scale: 1.008;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    margin-top: 10px;
+}
+
+.rating_rate {
+    background: rgb(35, 187, 117);
+    padding: 5px;
+    border-radius: 14px;
+    color: white;
+    fill: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.review {
+    font-weight: 600;
+    opacity: .5;
+    font-size: 15px;
+}
+
+.rating .rating_rate {
+    align-items: center;
+}
+
+.rating .rating_rate i {
+    font-size: 13px;
+    top: 3px;
+    bottom: 3px;
+}
+.tmp{
+    padding: 2px;
+    background: #f3f2f2;
+    margin: 10px 0;
+    color: rgb(103, 102, 102) ;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 17px;
+}
+.tmp .text{
+    padding: 5px; 
+    opacity: .4;
 }
