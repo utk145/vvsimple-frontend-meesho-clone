@@ -33,4 +33,4 @@ The Meesho.com clone frontend is designed to mimic the functionality of the orig
 ## Credits
 Special thanks to the creators of [Meesho.com](https://www.meesho.com/) for inspiring this project.
 
-
+Check out the post [Here](https://twitter.com/utks1455/status/1641382357960892416).
