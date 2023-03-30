@@ -32,5 +32,5 @@ Once you have installed the Live Server extension, you can  run the project by f
 The Meesho.com clone frontend is designed to mimic the functionality of the original website. You can use the website to browse and purchase products, add items to your cart, and checkout.
 ## Credits
 Special thanks to the creators of [Meesho.com](https://www.meesho.com/) for inspiring this project.
-## Live Preview
+
 
